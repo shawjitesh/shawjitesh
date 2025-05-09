@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋️, I'm Jitesh Shaw</h2>
-<h3 align="center">🚀 Software Engineer III @ JPMorganChase | Backend Developer 👨‍💻</h3>
+<h3 align="center">🚀 Software Engineer III | Backend Developer 👨‍💻</h3>
 
 ---
 
