@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif)
+<img src="/resources/developer.gif" alt="developer" style="max-width: 100%; height: auto;"/> 
 
 <h2 align="center">Hi there 👋️, I'm Jitesh Shaw</h2>
 
