@@ -58,3 +58,8 @@
 <a align="center" href="https://linkedin.com/in/jiteshshaw/" target="blank">
   <img align="center" src="/resources/linkedin.png" alt="in/jiteshshaw/" height="30" width="30" />
 </a>
+
+---
+<img align="center" src="/resources/developer.gif" alt="developer" height="765" width="1080" />
+
+![MasterHead](https://cdn.dribbble.com/userupload/3898109/file/original-1e15ac48305378a87fc4997b2ad4c0ee.gif)
