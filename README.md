@@ -12,6 +12,7 @@
 - 🤔 I’m looking for help with **transitioning to Fullstack development**
 - 💬 Ask me about **Java, Spring Boot, Microservices, Kafka, and AWS**
 - 📫 Reach me on: **jiteshshaw93@gmail.com**
+- 🕸️ Check out my portfolio at **https://tinyurl.com/shawjitesh**
 - ⚡ Fun fact: **Java developers don't need therapy—they just let the Garbage Collector handle their memory
   issues!** 🗑️😆
 
